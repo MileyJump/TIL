@@ -11,6 +11,6 @@
 [CustomFont적용하기](https://miley.tistory.com/5)
 
 
-- View
+* View
 
 ######  1. Pho
