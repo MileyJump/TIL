@@ -11,6 +11,3 @@
 [CustomFont적용하기](https://miley.tistory.com/5)
 
 
-* View
-
-> 1. PhotoCell
